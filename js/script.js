@@ -4,7 +4,7 @@ let nombre = prompt('Ingresa tu nombre')
 
 // Proceso
 let saludar = 'Hola ' + nombre;
-let indicacion01 = saludar + '.' + ' Bienvenido(a) a Daely, una aplicación para aprender ingles de forma facil y rápida.';
+let indicacion01 = saludar + '.' + ' Bienvenido(a) a Daely, una aplicación para aprender ingles de forma fácil y rápida.';
 let indicacion02 = 'Por favor, responde a las siguientes preguntas para evaluar tu nivel inicial. No hagas trampa es muy importante que respondas con sinceridad.';
 let nivelActual = 'Haz contestado a 3 de 3. Bien Hecho. Los siguientes modulos estarán disponibles proximamente.';
 let despedida = 'Gracias por tu tiempo.';
