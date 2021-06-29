@@ -5,8 +5,8 @@ let error0 = 'Por favor ingresa un nombre de usuario.'
 let error1 = 'Por favor ingresa una respuesta valida.';
 let error2 = 'Por favor ingresa un número del 1 al 10.';
 let error3 = 'Por favor ingresa un correo valido.'
-let exito1 = 'Gracias por tu tiempo. Esta información será de gran utilidad para mejorar tu experiencia.';
-let exito2 = 'Gracias por tu tiempo nuevamente. Hasta pronto!'
+let exito1 = 'Esta información será de gran utilidad para mejorar tu experiencia.';
+let exito2 = 'Gracias por tu tiempo. Hasta pronto!'
 let indicacion1 = ' Bienvenido(a) a Daely, una aplicación para aprender ingles de forma fácil y rápida.';
 let indicacion2 = 'Antes de comenzar, por favor tomate un minuto para responder a las siguientes preguntas. Esto mejorará tu experiencia de usuario.';
 
